@@ -41,12 +41,11 @@ global.ownernumber = '62XNXX'
 global.ownerNumber = ["6282143965793@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@NESF_NICKY"
 global.websitex = "https://youtube.com/@NESF_NICKY"
-global.wagc = "https://chat.whatsapp.com/CUCSSvTRdCIBbS2xQDj7am""
+global.wagc = "https://chat.whatsapp.com/CUCSSvTRdCIBbS2xQDj7am"
 global.themeemoji = '🪀'
 global.wm = "RifalModzYT"
 global.botscript = 'https://youtube.com/@NESF_NICKY' //script link
-global.packname = "Sticker By
-NESF_NICKY"
+global.packname = "Sticker By NESF_NICKY"
 global.author = "NESF_NICKY +_+"
 global.creator = "6282143965793@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
